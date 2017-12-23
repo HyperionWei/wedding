@@ -1,0 +1,23 @@
+{
+  "name": "wedding",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/HyperionWei/wedding/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HyperionWei/wedding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HyperionWei/wedding/issues"
+  },
+  "homepage": "https://github.com/HyperionWei/wedding#readme"
+}
